@@ -84,7 +84,7 @@ $site_URL = 'http://dev.jbms-tech.com/';
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/mnt/data/home/dev.jbms-tech.com/';
+$root_directory = '/jbms-tech.com/dev.jbms-tech.com/';
 
 // cache direcory path
 $cache_dir = 'cache/';
