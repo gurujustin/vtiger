@@ -46,9 +46,9 @@ $HELPDESK_SUPPORT_EMAIL_REPLY_ID = $HELPDESK_SUPPORT_EMAIL_ID;
 
 $dbconfig['db_server'] = 'localhost';
 $dbconfig['db_port'] = ':3306';
-$dbconfig['db_username'] = 'vxwnhjupfc';
+$dbconfig['db_username'] = 'i6_vxwnhjupfc';
 $dbconfig['db_password'] = 'YDR9p5QDZbp3B@!';
-$dbconfig['db_name'] = 'vxwnhjupfc';
+$dbconfig['db_name'] = 'i6_vxwnhjupfc';
 $dbconfig['db_type'] = 'mysqli';
 $dbconfig['db_status'] = 'true';
 
