@@ -31,7 +31,7 @@ $CALENDAR_DISPLAY = 'true';
 $USE_RTE = 'true';
 
 // helpdesk support email id and support name (Example: 'support@vtiger.com' and 'vtiger support')
-$HELPDESK_SUPPORT_EMAIL_ID = 'developer.zeeshan@gmail.com';
+$HELPDESK_SUPPORT_EMAIL_ID = 'stepandev007@gmail.com';
 $HELPDESK_SUPPORT_NAME = 'your-support name';
 $HELPDESK_SUPPORT_EMAIL_REPLY_ID = $HELPDESK_SUPPORT_EMAIL_ID;
 
@@ -79,12 +79,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL = 'https://arablead.com/';
+$site_URL = 'http://dev.jbms-tech.com/';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/mnt/data/home/517557.cloudwaysapps.com/vxwnhjupfc/public_html/';
+$root_directory = '/mnt/data/home/dev.jbms-tech.com/';
 
 // cache direcory path
 $cache_dir = 'cache/';
